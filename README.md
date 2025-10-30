@@ -1,4 +1,3 @@
-<img width="1920" height="1080" alt="Screenshot (102)" src="https://github.com/user-attachments/assets/eda71ab8-eca9-453d-ab58-dc9cb613f6b1" /># Exp 5 Physical Design of a 4-Bit Up-Down Counter
 
 ## Aim:
 
